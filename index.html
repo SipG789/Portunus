@@ -4,38 +4,82 @@
         <meta charset="UTF-8" />
         <title>My Porfolio</title>
         <link rel="stylesheet" href="./assets/style.css">
+<!--TO DO: add favicon//use w3 schools for info-->
+        <link rel="icon" type="image/x-icon" href="./assets/sg-favicon.ico">
     </head>
 <body>
    <header>
 <!--TO DO: I want an image on top left; include the same image as favicon for website -->
     <h1>
+        <img class="header-initials" src="./assets/sg.jpg" alt="" />
         <a href="index.html">Sipriano Gonzalez</a> 
     </h1>   
 <!--TO DO: add unordered list of 'about me', 'projects', 'contact me'//include nav links-->
     <nav>
      <ul>
          <li>
-             <a href="about-me">About Me</a>
+             <!--anchor elements-->
+             <a href="#about-me">About Me</a>
          </li>
          <li>
-             <a href="projects">Projects</a>
+             <a href="#projects">Projects</a>
          </li>
          <li>
-             <a href="contact-me">Contact Me</a>
+             <a href="#contact-me">Contact Me</a>
          </li>
      </ul>
     </nav>
 </header> 
-    
+
 <!--TO DO: 'about me' section-->
-
+    <section class="hero">
+        <div id="about-me" class="hero-about-me">
+            <h2>About Me</h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur labore quia eveniet nihil voluptatem praesentium architecto. Ut in tempore harum id nam dicta voluptatem, suscipit explicabo sint, esse neque?
+            </p>
+        </div>
+    </section>
 <!--TO DO: include 3 links to projects you have done/will do-->
-
+    <section class="challenge-projects">
+        <div id="projects">
+            <h3>
+                Run-Buddy
+            </h3>
+            <h3>
+                Robot-Gladiators
+            </h3>
+            <h3>
+                Password-Generator 
+            </h3>
+        </div>
+    </section>
 <!--TO DO: add section with profile pic-->
-
+    <section class="profile-pic">
+        <img src="./assets/profile-pic.jpg" alt="" />
+    </section>
 <!--TO DO: resume on its own column on the right side of webpage (consider a dev element?)-->
-
+    <section class="resume">
+        <div class="section-title">
+            <h4>
+                Resume
+            </h4>
+        </div>
+         <div class="work-experience">
+             <p>
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos dolorem soluta ad temporibus labore perspiciatis quis deserunt cupiditate, veniam harum. Eligendi distinctio in culpa maxime veniam voluptatem iure a reprehenderit.
+             </p>
+         </div>
+    </section>
 <!--TO DO: include footer with contact info-->
-
+    <footer>
+        <h2>Contact Me</h2>
+        <div id="contact-me">
+            <address>
+                P: (210.928.7157) <br/>
+                E: <a href="mailto:Sipriano.Gonzalez0717@gmail.com">Sipriano.Gonzalez0717@Gmail.com</a> <br />
+            </address>
+        </div>
+    </footer>
 </body>
 </html>
