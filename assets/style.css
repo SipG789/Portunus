@@ -1,14 +1,14 @@
 /*choose color scheme for layout*/
 :root {
     --primary-color: #0003c4;
-    --secondary-color: #a8a8a8;
+    --secondary-color: antiquewhite;
     --tertiary-color: #6bbcff;
-    --fourth-color: #010322;
+    --fourth-color: darkslateblue;
 }
 /*referenced Run-Buddy code as a guide*/
 header {
     padding: 20px 35px;
-    background-color: #7B7B7B;
+    background-color: #a8a8a8;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
