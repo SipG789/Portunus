@@ -230,6 +230,30 @@ footer div {
     text-shadow: none;
 }
 
+.p-1-img button {
+    margin: auto;
+    border-radius: 200px;
+    width: auto;
+    display: flex;
+    background: var(--fourth-color);
+    color: var(--fourth-color);
+}
+
+.wthr-img {
+    border-radius: 100%;
+    height: 50%;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: auto;
+}
+
+.p-1-img button:hover {
+    background-color: var(--fourth-color);
+    color: var(--tertiary-color);
+    border-radius: 200px;
+    text-shadow: none;
+}
+
 /* I had to use code from W3 schools to figure out how to make these horizontal*/
 .my-collection {
     float: left;
