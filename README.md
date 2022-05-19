@@ -5,14 +5,6 @@ Storage of my portfolio work
 
 ## Introduction 
 
-*  This webpage is designed for me, by me, here you can see my previous work. The hope is that while I keep working as a developer I can return to this page and add more to it and enhance it. 
-
-* I used HTML and CSS for this project. I tried my best to work with the knowledge that I have learned throughout this course. You may notice that I used the code from my Run-Buddy project as a guideline for much of the CSS. It is still new to me and having an exemplar was very helpful for me. 
-
-* I had to also do research in order to add features that I personally wanted.
-References: 
--W3schools.com
--favicon simulator I found on Google
 
 ## Requirements 
 
