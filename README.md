@@ -1,23 +1,40 @@
-# Portunus
-Storage of my portfolio work 
+# Porfolio  
+![License](https://shields.io/badge/license-Apache2.0-blue.svg)
 
-* As a developer, I want to have a website where I can store all of the projects I have been working on. 
+  ## Table of Contents
+  -[Description](#description)
+  -[Usage](#usage)
+  -[Collaborators](#collaborators)
+  -[Instructions](#instructions)
+  -[Licenses](#licenses)
+  -[Questions](#questions)
 
-## Introduction 
+  ### Description
+```
+This is my portfolio where I have placed a few of the applications I have worked on. Feel free to follow along in my journey to learning new technologies and implementing new designs. 
+```
 
 
-## Requirements 
+Here is a screenshot of the application: 
+![image](./assets/img/screenshot-portfolio.png)
 
-* GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+
+
+  ### Usage
+  View the deployed site using the link below:
+    https://sipg789.github.io/Portunus/
+
+  ### Collaborators
+  none
+
+  ### Instructions
+  This website is a source for all of my projects and a view of who I am as a developer. 
+
+
+  ### Licenses 
+  Apache2.0
+
+  ### Questions
+  Feel free to contact me at:
+  GitHub: "https://github.com/SipG789/Portunus"
+
