@@ -10,9 +10,9 @@
   -[Questions](#questions)
 
   ### Description
-```
+
 This is my portfolio where I have placed a few of the applications I have worked on. Feel free to follow along in my journey to learning new technologies and implementing new designs. 
-```
+
 
 
 Here is a screenshot of the application: 
